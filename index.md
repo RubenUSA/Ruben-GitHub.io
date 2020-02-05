@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![cereal](/images/logo.png)
+![cereal](/make-cereal-milk-a-momofuku-inspired-drink.w1456.jpg)
 
 
 
