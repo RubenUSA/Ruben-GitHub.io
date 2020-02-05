@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![](/images/logo.png)
+![cereal](/images/logo.png)
 
 
 
